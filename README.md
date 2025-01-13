@@ -1,2 +1,2 @@
 # Python Problems
- More Python problems and solututions
+practice problems and solutions using Python
