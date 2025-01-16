@@ -11,3 +11,12 @@ def sum_of_digits(n):
 
 print_sum = sum_of_digits(n)
 print(print_sum)
+
+# method 2
+
+number = int(input("number: "))
+digit_sum = 0
+for i in str(number):
+    digit_sum += int(i)
+
+print("sum: ", digit_sum)
